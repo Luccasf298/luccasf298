@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luccas Ferreira
 
 
-tenho 16 anos estou aprendendo javaScript no momento e estou
+tenho 17 anos 
 
 
-estou aprendendo a fazer codigos a 6 meses : html, css, JavaScript , msql
+estou aprendendo a fazer codigos a 1 ano e  6 meses : html, css, JavaScript , msql , php, dart/flutter
 
 * 🌍  I'm based in São paulo
 * ✉️  You can contact me at [lucasferreiragamer298@gmail.com](mailto:lucasferreiragamer298@gmail.com)
